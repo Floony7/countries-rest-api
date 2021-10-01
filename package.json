@@ -1,0 +1,23 @@
+{
+  "name": "countries-rest-api",
+  "version": "1.0.0",
+  "description": "\"REST API serving information on countries and territories\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floony7/countries-rest-api.git"
+  },
+  "keywords": [
+    "countries"
+  ],
+  "author": "Fred Lunjevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floony7/countries-rest-api/issues"
+  },
+  "homepage": "https://github.com/Floony7/countries-rest-api#readme"
+}
